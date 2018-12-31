@@ -7,6 +7,8 @@ Gerber for production of the PCB and .json
 
 Two .json files to support the two layout options, combination layout you will need to creat it yourself.
 
+The Gerber PCB Zip files internally are labelled FHANv3, this is due to it being cloned from my FHAN design. View the gerber zip in a gerber viewer to confirm and give yourself confidence it is the Snagpad if required.
+
 Build requires a pro micro.
 
 Can be built as single PCB with custom case, or as two PCB style with standoffs.
