@@ -14,5 +14,7 @@ If you like this simple PCB and want to make a donation, you can at https://payp
 Check out our:
 
 YouTube (https://www.youtube.com/channel/UCg98oJZNffR9nDLJNkorjqw)
+
 Podcast (www.libsyn.com/theboardpodcast)
+
 Patreon (www.patreon.com/theboardpodcast)
