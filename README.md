@@ -4,6 +4,10 @@ QMK for Snagpad
 This PCB can be used as a standard numpad, or a ortho 5x4 macropad.
 
 Two .json files to support the two layout options, combination layout you will need to create it yourself.
+These json are created from KBFirmware and are not QMK Configurator compatable.
+
+These QMK files are only suitable for local file generation, not for QMK Configurator.
+qmk_firmware/keyboards/snagpad will have the latest revised Snagpad to up to date QMK requirements.
 
 Build requires a pro micro.
 
